@@ -5,10 +5,10 @@
 
 ## 💫 About Me
 
-🎓 Currently pursuing a degree in **Computer and Informatics Engineering** at the **University of Aveiro**.  
-🚀 Coordinator of the **Payload team** at **NAVEE/UART**.  
-🎵 Passionate about **music**.  
-😆 Messing around with my **friends**. 
+🎓 Currently pursuing a degree in **Computer and Informatics Engineering** at the **University of Aveiro**  
+🚀 Coordinator of the **Payload team** at **NAVEE/UART**  
+🎵 Passionate about **music**  
+😆 Messing around with my **friends** 
 
 ---
 
@@ -28,9 +28,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="360vw" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedromf3&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" width="400vw"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="372vw" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedromf3&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" width="410vw"/>  
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="305vw" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="275vw" />
 </div>
 
