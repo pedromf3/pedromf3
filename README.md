@@ -28,9 +28,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="424vw" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedromf3&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" width="466vw"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="360vw" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedromf3&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" width="400vw"/>  
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="315vw" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="305vw" />
 </div>
 
