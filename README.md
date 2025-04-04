@@ -8,7 +8,7 @@
 🎓 Currently pursuing a degree in **Computer and Informatics Engineering** at the **University of Aveiro**  
 🚀 Coordinator of the **Payload team** at **NAVEE/UART**  
 🎵 Passionate about **music**  
-😆 Messing around with my **friends** 
+😆 Always messing around with my **friends** 
 
 ---
 
