@@ -28,6 +28,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="372vw" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="275vw" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=57600" alt="GitHub Stats" width="372vw" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromf3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache_seconds=57600" alt="Top Languages" width="275vw" />
 </div>
