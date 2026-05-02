@@ -17,7 +17,7 @@ jobs:
           template: classic
           
           base: activity, community, repositories, metadata
-          
+           
           repositories_affiliations: owner
           
           plugin_languages: yes
