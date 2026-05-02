@@ -18,7 +18,6 @@ jobs:
           
           base: activity, community, repositories, metadata
            
-          repositories_affiliations: owner
           
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
