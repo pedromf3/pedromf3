@@ -16,10 +16,13 @@ jobs:
           user: pedromf3
           template: classic
           
+          
           base: activity, community, repositories, metadata
            
           
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
+
+          base_footer: no
           
           config_timezone: Europe/Lisbon
