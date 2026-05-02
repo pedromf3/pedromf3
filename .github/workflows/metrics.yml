@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}  
           
           user: pedromf3
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           
           plugin_languages: yes
