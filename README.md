@@ -28,5 +28,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics do Pedro">
+  <img src="github-metrics.svg" alt="Pedro's GitHub Metrics">
+  <br>
+  <sub><em>* These metrics do not include private contributions.</em></sub>
 </div>
