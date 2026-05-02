@@ -17,12 +17,13 @@ jobs:
           template: classic
           
           
-          base: activity, community, repositories, metadata
+          base: activity, community, repositories
            
           
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
 
-          base_footer: no
-          
           config_timezone: Europe/Lisbon
+
+          base_footer: no
+  
