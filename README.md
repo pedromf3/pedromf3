@@ -4,7 +4,9 @@
 
 ## 💫 About Me
 
-🎓 BSc in **Computer and Informatics Engineering** at the **University of Aveiro**
+🤖 Pursuing an MSc in **Robotics and Intelligent Systems** at the **University of Aveiro**
+
+💻 BSc in **Computer and Informatics Engineering** at the **University of Aveiro**
 
 🚀 Coordinator of the **Payload team** at **NAVEE Rocket Team**
 
